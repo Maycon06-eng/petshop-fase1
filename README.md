@@ -16,7 +16,7 @@ Sistema web para um petshop desenvolvido como projeto da disciplina.
 - HTML5
 
 ## Como Visualizar o Site
-Acesse: https://SEU-USUARIO.github.io/petshop-fase1
+Acesse: https://Maycon06-eng.github.io/petshop-fase1
 
 ## Estrutura de Arquivos
 - index.html: Página inicial
