@@ -1,4 +1,4 @@
-# PetShop Amigo Fiel - Projeto Fase 1
+# PetShop Amigo Fiel 
 
 ## Descrição
 Sistema web para um petshop desenvolvido como projeto da disciplina.
